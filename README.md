@@ -57,5 +57,19 @@
   - But work when use *test* password
    ![image](https://user-images.githubusercontent.com/28156593/146937766-69951f1b-28de-472b-bb1d-6bf5145689be.png)
 ## 6. Activate and Deactivate 
+  - Sign Up new User
+   ![image](https://user-images.githubusercontent.com/28156593/146938071-8fd3cef4-c7c0-4d97-a65a-b7d76e637dc5.png)
+  - Status is Active
+   ![image](https://user-images.githubusercontent.com/28156593/146938129-52d25b59-0815-4001-8486-719ca112ccb7.png)
+  - Hit DeActivate API 
+   ![image](https://user-images.githubusercontent.com/28156593/146938316-98ea58eb-6a78-4f22-8717-f896cd2660c5.png)
+   ![image](https://user-images.githubusercontent.com/28156593/146938377-c655de85-b816-4ef5-8932-8119284796c8.png)
+  - So cannot login because inactive
+   
+  - Hit Active API
+   ![image](https://user-images.githubusercontent.com/28156593/146938814-ce61b935-d634-4145-9415-337b287619e9.png)
+   ![image](https://user-images.githubusercontent.com/28156593/146938873-7c97d6b0-afbf-434b-9190-d2b52c77a143.png)
+  - Allow to login because active again
+   ![image](https://user-images.githubusercontent.com/28156593/146938991-4e550e29-c83f-403c-ba2f-f8506d643cbd.png)
 
 
