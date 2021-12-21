@@ -10,12 +10,12 @@
 
 # Function, more function complete or solve the better:
 
-Login (email and password)
-View User include paging and sorting (secured with token from login)
-Search by Email or Employee Number (secured with token from login)
-Edit User Profile(secured with token from login)
-Change Password (secured with token from login)
-Active/Deactive User - User Cant login after deactivation(secured with token from login)
+1. Login (email and password)
+2. View User include paging and sorting (secured with token from login)
+3. Search by Email or Employee Number (secured with token from login)
+4. Edit User Profile(secured with token from login)
+5. Change Password (secured with token from login)
+6. Active/Deactive User - User Cant login after deactivation(secured with token from login)
 
 
 #
