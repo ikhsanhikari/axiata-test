@@ -31,7 +31,7 @@
    ![image](https://user-images.githubusercontent.com/28156593/146935787-7bbfe6a2-14b0-4584-8228-73e6b3016049.png)
   
 ## 2. View All User with sorting and paging
-    ![image](https://user-images.githubusercontent.com/28156593/146935971-ec11c2cd-71f9-4055-befe-521e4957d1d3.png)
+   ![image](https://user-images.githubusercontent.com/28156593/146935971-ec11c2cd-71f9-4055-befe-521e4957d1d3.png)
   
 ## 3. Search User By Email or Employee Number
  - By Employee Number 
