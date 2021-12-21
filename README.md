@@ -1,4 +1,4 @@
-#Create Rest API for Login and User Management with:
+# Create Rest API for Login and User Management with:
 
 UserId
 Email
@@ -8,7 +8,7 @@ Birth Place (City)
 Birth Date
  
 
-#Function, more function complete or solve the better:
+# Function, more function complete or solve the better:
 
 Login (email and password)
 View User include paging and sorting (secured with token from login)
